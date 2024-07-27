@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Perry</h1>
 <h3 align="center">I am a LuaU and JavaScript Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/perrydv" target="blank"><img src="https://img.shields.io/twitter/follow/perrydv?logo=twitter&style=for-the-badge" alt="perrydv" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kzaklz" target="blank"><img src="https://img.shields.io/twitter/follow/perrydv?logo=twitter&style=for-the-badge" alt="perrydv" /></a> </p>
 
 - 🔭 I’m currently working on **DVlop**
 
