@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Perry</h1>
-<h3 align="center">I am a LuaU, Python and JavaScript Developer</h3>
+<h3 align="center">I am a Lua/U, Python and JavaScript Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/kzaklz" target="blank"><img src="https://img.shields.io/twitter/follow/kzaklz?logo=twitter&style=for-the-badge" alt="kzaklz" /></a> </p>
 
