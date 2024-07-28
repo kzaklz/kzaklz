@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Perry</h1>
 <h3 align="center">I am a LuaU and JavaScript Developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
-<p align="left"> <a href="https://twitter.com/kzaklz" target="blank"><img src="https://img.shields.io/twitter/follow/perrydv?logo=twitter&style=for-the-badge" alt="perrydv" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kzaklz" target="blank"><img src="https://img.shields.io/twitter/follow/perrydv?logo=twitter&style=for-the-badge" alt="kzaklz" /></a> </p>
 
 - 🔭 I’m currently working on **DVlop**
 
